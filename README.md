@@ -13,6 +13,7 @@ Também é possivel se obter o tempo médio em minutos da viagem.
 
 #### Google Directions API
     Traçar uma rota no mapa recebendo o ponto de partida e o ponto de destino da rota (Latitude e longitude).
+    Também é possível obter o tempo médio da viagem em minutos e a distância em km. 
   
 #### Google Geocoding API
     Buscar informações de uma localidade recebendo apenas a latitude e longitude.
